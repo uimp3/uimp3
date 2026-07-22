@@ -78,17 +78,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-### 💼 Experiencia profesional
-
-**Desarrollador Full Stack — ECOMINDALA S.A.S.** · Pasto, Colombia *(2024 – 2025)*
-- Automaticé los procesos de recepción y transformación del café, reduciendo tiempos operativos en ~50%.
-- Diseñé y desarrollé un sistema de gestión de inventarios y trazabilidad del café con Django.
-- Reduje los errores manuales en el inventario en aproximadamente un 30%.
-- Participé en el desarrollo de la tienda virtual de la empresa.
-- **Tecnologías:** Python, Django, Django REST Framework, PostgreSQL, Git, API REST.
-
----
 <!--
 ### 📌 Proyectos destacados
 
@@ -126,8 +115,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uimp3&layout=compact&hide_border=true" alt="Top Languages" width="55%" />
 </p>
+-->
 
-  -->
 ---
 
 ### 🤝 Conectemos
