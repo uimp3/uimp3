@@ -1,20 +1,4 @@
 
-<!--
-## Hi there 👋
-
-**uimp3/uimp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">¡Hola, soy Edwin Muñoz! 👋</h1>
 <h3 align="center">Ingeniero de Sistemas · Desarrollador Backend | Full Stack</h3>
 
@@ -28,9 +12,10 @@ Here are some ideas to get you started:
 
 - 🎓 **Ingeniero de Sistemas** — Universidad de Nariño (Dic. 2025), trabajo de grado con **Distinción Meritoria**.
 - 💼 Experiencia como **Desarrollador Full Stack**, automatizando procesos empresariales y optimizando operaciones con software a medida.
-- 🧠 Especializado en **Desarrollo Backend** con Python y FastApi | Django.
+- 🧠 Especializado en **Desarrollo Backend** con Python y Django | FastApi.
 - 🤖 Fundamentos en **Inteligencia Artificial, Deep Learning, PyTorch y NLP**.
-- 🌱 Aplicando frecuentemente metodologías ágiles (Scrum, Kanban), buenas prácticas de desarrollo y manejo de versiones.
+- 🌱 Actualmente profundizando en ciencia de datos.
+- 😄 Aplicando frecuentemente metodologías ágiles (Scrum, Kanban), buenas prácticas de desarrollo y manejo de versiones.
 - 📫 Contáctame: **edwindanilo1110@gmail.com**
 
 ---
